@@ -2,8 +2,6 @@ package ru.HomeWork5.HomeWork5.model;
 
 import jakarta.persistence.*;
 import lombok.Data;
-import org.springframework.data.annotation.Id;
-import org.springframework.data.relational.core.mapping.Table;
 
 
 import java.time.LocalDateTime;
